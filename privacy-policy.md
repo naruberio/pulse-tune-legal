@@ -1,6 +1,6 @@
 # PulseTune — Privacy Policy
 
-_Last updated: 2026-06-09_
+_Last updated: 2026-08-23_
 
 PulseTune ("the app") is a metronome and tuner developed by Naruberio LLC.
 
@@ -14,7 +14,7 @@ The tuner uses your device's microphone **only** to detect musical pitch in real
 Your settings, presets, and setlists are stored **only on your device**. They are not synced to any server.
 
 ## Purchases
-The optional one-time "Pro" purchase is processed by Apple via the App Store. We do not receive or store your payment information. Apple's privacy policy applies to the transaction.
+PulseTune is a paid app; the purchase is processed by Apple via the App Store. There are no in-app purchases. We do not receive or store your payment information. Apple's privacy policy applies to the transaction.
 
 ## Children
 The app is safe for all ages: no ads, no data collection, no external links to unsafe content.
@@ -29,7 +29,7 @@ Questions: konpei.work@gmail.com
 
 # プライバシーポリシー（日本語）
 
-_最終更新日: 2026-06-09_
+_最終更新日: 2026-08-23_
 
 PulseTune（本アプリ）は合同会社ナルベリオが開発するメトロノーム＆チューナーです。
 
@@ -43,7 +43,7 @@ PulseTune（本アプリ）は合同会社ナルベリオが開発するメト�
 設定・プリセット・セットリストは**端末内にのみ**保存され、サーバーへ同期されません。
 
 ## 課金
-任意の買い切り「Pro」は Apple（App Store）が処理します。当社はお客様の支払い情報を受領・保存しません。取引には Apple のプライバシーポリシーが適用されます。
+PulseTune は有料アプリで、購入は Apple（App Store）が処理します。アプリ内課金はありません。当社はお客様の支払い情報を受領・保存しません。取引には Apple のプライバシーポリシーが適用されます。
 
 ## お子様の利用
 広告なし・データ収集なし・不適切な外部リンクなしで、全年齢に安全です。
